@@ -1,0 +1,27 @@
+{
+  "name": "api-news",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/akumu02/api-news.git"
+  },
+  "keywords": [],
+  "author": "Katherine Provoste",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/akumu02/api-news/issues"
+  },
+  "homepage": "https://gitlab.com/akumu02/api-news#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongodb": "^4.4.1",
+    "node-schedule": "^2.1.0"
+  }
+}
